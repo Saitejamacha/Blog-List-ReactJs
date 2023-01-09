@@ -1,0 +1,27 @@
+.li-items {
+  list-style-type: none;
+  width: 100%;
+}
+
+.top-con {
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-para {
+  color: #616e7c;
+  font-size: 20px;
+  font-family: roboto;
+}
+
+h1 {
+  font-size: 25px;
+  font-family: roboto;
+}
+
+.date-para {
+  color: #616e7c;
+  font-size: 20px;
+  font-family: roboto;
+}
